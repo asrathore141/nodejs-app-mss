@@ -5,6 +5,8 @@
   "main": "app.js",
   "publishConfig": {
     "registry": "http://13.59.35.215:8081/repository/my-mnp-hosted-repo/"
+    "username" : "admin"
+    "password" : "admin"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
