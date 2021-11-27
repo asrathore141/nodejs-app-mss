@@ -46,8 +46,8 @@ app.get("/html", function(req,res){
         res.send({
 		'name': 'Mithun Technologies',
 		'technology': 'DevOps',
-		'contact' : '9980923226',
-		'email': 'devopstrainingblr@gmail.com'
+		'contact' : '7014244430',
+		'email': 'asrathore63@gmail.com'
 	            });
         
         });
