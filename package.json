@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MithunTechnologies/node-js-application"
+    "url": "https://github.com/asrathore141/nodejs-app-mss.git"
   },
   "keywords": [
     "node",
     "Bhanu Technologies",
     "express"
   ],
-  "author": "Mithun Reddy Lacchannagari",
+  "author": "Bhanu Pratap Singh Rathore",
   "license": "MIT"
 }
