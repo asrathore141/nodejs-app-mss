@@ -7,7 +7,7 @@
     "registry": "http://13.59.35.215:8081/repository/my-mnp-hosted-repo/"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "cfenv": "^1.1.0",
